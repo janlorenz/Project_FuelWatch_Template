@@ -1,0 +1,46 @@
+---
+title: "Project - FuelWatch"
+format:   
+  html: 
+    toc: true
+    toc-depth: 3
+    standalone: true
+    embed-resources: true
+    code-fold: true
+    number-sections: true
+---
+
+```{r}
+#| label: packages-data
+#| message: false
+
+```
+
+## Basic information about FuelWatch in Western Australia  {#sec-1}
+
+[Fuel Watch](https://www.fuelwatch.wa.gov.au) is a fuel monitoring service created by the Government of Western Australia. It provides information about fuel prices at the petrol stations in Western Australia. This analysis is about the fuel prices of twelve months until October 2024. 
+
+Here is a geographic overview about the regions from the Government of Western Australian. 
+
+![](https://prod-iwa-public-files.s3.ap-southeast-2.amazonaws.com/public/inline-images/WA_regions_for%20digi%20SIS-11_resized.png)
+
+
+
+
+## Overview Regions and Brands {#sec-2}
+
+
+
+## Price trends {#sec-3}
+
+
+
+## Characterization Price Dynamics {#sec-4}
+
+
+
+## Clustering {#sec-5}
+
+
+
+## Potential explanation {#sec-6}
